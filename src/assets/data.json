@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "Codeial",
+      "description": "Developed React web app with user authentication, password management, friend actions, and post interactions (create, delete, like, comment).",
+      "url": "https://socialmedia-20301.web.app/",
+      "imgSrc": "https://blog.tcea.org/wp-content/uploads/2022/10/Add-a-heading.png"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "Blog Web App",
+      "description": "Built a minimalist blog app for seamless writing, publishing, and engaging with content.",
+      "url": "https://react-hook-blog-e27aa.web.app/",
+      "imgSrc": "https://www.searchenginejournal.com/wp-content/uploads/2020/08/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-1280x720.png"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "XCrypto",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-crypto-app-pi.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "1/12/2023",
+      "title": "PORTFOLIO",
+      "description": "Crafted a sleek portfolio website showcasing my skills, projects, and achievements. User-friendly design and easy navigation provide a snapshot of my expertise and accomplishments.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
